@@ -1,1 +1,5 @@
-print("hello world")
+def text():
+    return "hello world"
+
+
+print(text())
